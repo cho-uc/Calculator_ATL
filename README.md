@@ -7,6 +7,8 @@ GUI Objects:
 * EditControl
 * ListBox
 
+How to use:
+
 1. Create Visual Studio project using all source files in SystemInfo folder
 2. Add dependencies as include directory
 3. Compile and run
